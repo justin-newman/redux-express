@@ -4,6 +4,7 @@ import '../styles/navbar.css';
 
 const links = [
     { name: 'Home', path: '/' },
+    { name: 'My notes', path: '/notes' },
 ]
 
 const NavBar = () => (
